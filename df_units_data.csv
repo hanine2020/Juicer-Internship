@@ -1,0 +1,57 @@
+"id";"description";"created_at";"updated_at";"deleted_at";"is_active";"unit_group_id";"is_deleted";"number_workers";"number_tables";"address";"city_id";"latitude";"longitude";"pos_id"
+8;Port Chester;;;;true;3;false;;;"1 Willett Avenue
+Port Chester, NY 10573";;;;3
+9;Stamford;;;;true;3;false;;;"222 Summer Street
+Stamford, CT 06901";;;;3
+11;Westport;;;;true;3;false;;;"20 Wilton Road
+Westport, CT 06880";;;;3
+12;W. Midtown;;;;true;3;false;;;"969 Marietta Street NW
+Atlanta, GA 30318";;;;3
+13;Reston;;;;true;3;false;;;"12021 Town Square St.
+Reston, VA 20190";;;;3
+14;Inman Park;;;;true;3;false;;;"299 North Highland Ave NE
+Atlanta, GA 30307";;;;3
+20;Chapel Hill;;;;true;3;false;;;"201 S. Estes Drive
+Suite E3
+Chapel Hill, NC 27514";;;;3
+21;Aventura;;;;true;3;false;;;"2906 NE 207th St.
+Suite 104
+Aventura, FL 33180";;;;3
+22;Mosaic;;;;true;3;false;;;"2920 District Ave, Suite 120
+Fairfax, VA 22031";;;;3
+23;Fort Worth;;;;true;3;false;;;CLOSED;;;;3
+25;Ballston;;;;true;3;false;;;"4238 Wilson Blvd, Suite 120
+Arlington, VA 22203";;;;3
+26;Deerfield;;;;true;3;false;;;CLOSED;;;;3
+34;Wynwood;;;;true;3;false;;;"282 NW 25th St
+Miami, FL 33127";;;;3
+31;Preston;;;;true;3;false;;;CLOSED;;;;3
+32;Mt. Vernon;;;;true;3;false;;;"1025 5th Street, NW
+Washington, DC 20001";;;;3
+10;West HartFord;;;;true;3;false;;;"971 Farmington Avenue
+West Hartford, CT 06107";;;;3
+15;Chastain Park;;;;true;3;false;;;"3802 Roswell Road
+Atlanta, GA 30342";;;;3
+16;Nashville;;;;true;3;false;;;"2526 12th Avenue South
+Nashville, TN 37204";;;;3
+17;Tampa;;;;true;3;false;;;"1601 W. Snow Ave.
+Tampa, FL 33606";;;;3
+19;Boulder;;;;true;3;false;;;"1048 Pearl St.
+Suite 101
+Boulder, CO 80302";;;;3
+24;Seaport Boston;;;;true;3;false;;;"25 Thomson Place
+Boston, MA 02210";;;;3
+27;Raleigh;;;;true;3;false;;;"4121 Main at North Hills St.
+S. 105
+Raleigh, NC 27609";;;;3
+30;King of Prusia;;;;true;3;false;;;"160 N. Gulph Rd.
+Room C110
+King of Prussia, PA 19406";;;;3
+33;Mt. Vernon ;;;;true;3;false;;;CLOSED;;;;3
+28;Hilldale;;;;true;3;false;;;"464 N. Midvale Blvd., Ste. 464
+Madison, WI 53705";;;;3
+29;Lohi;;;;true;3;false;;;"2001 W. 32nd Avenue
+Denver, CO 80211";;;;3
+18;Dr.Phillips;;;;true;3;false;;;"7600 Dr. Phillips Blvd
+Suite 28
+Orlando, FL 32819";;;;3
